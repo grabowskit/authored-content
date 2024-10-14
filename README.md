@@ -38,7 +38,9 @@ Authored or co-authored blog and webinar content while at Elastic
 - [Time Series Anomaly Detection: Optimizing your Machine Learning Jobs in Elasticsearch](https://www.elastic.co/webinars/time-series-anomaly-detection-optimizing-machine-learning-jobs-in-elasticsearch)
 - [Machine learning and the Elastic Stack: Everywhere you need it](https://www.elastic.co/elasticon/archive/2020/global/machine-learning-and-the-elastic-stack-everywhere-you-need-it)
 
-
-
+## Other
+- 2021 [ElasticOn - Anomaly Detection workflow](https://youtu.be/Ca4_5AMvboU?si=n5tblO1eDBHkQfdX)
+- 2020 [Data Days - Getting to know Elastic data science](https://youtu.be/yjBdCvpTOjU?si=-Bk4nObTTmddiDje)
+- 2020 [SLED Meetup - Introduction to Machine Learning in Elastic](https://youtu.be/NfOTq3X_pcg?si=bBUksb0ZDZ-6EAlE)
 
 
