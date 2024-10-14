@@ -14,7 +14,7 @@ Authored or co-authored blog and webinar content while at Elastic
 - [Sizing for Machine Learning with Elasticsearch](https://www.elastic.co/blog/sizing-machine-learning-with-elasticsearch)
 - [Using Elasticsearch and Machine Learning for IT Operations](https://www.elastic.co/blog/using-elasticsearch-and-machine-learning-for-it-operations)
 
-## Release Blogs - Every release my teams included a major new capability
+## Release Blogs - My O11y team feature announcements
 
 - [Elastic Observability 8.15: AI Assistant, OTel, and log quality enhancements](https://www.elastic.co/blog/whats-new-elastic-observability-8-15-0)
 - [Elastic Observability 8.14: New feature for SLO, AI Assistant, and .NET for Universal Profiling](https://www.elastic.co/blog/whats-new-elastic-observability-8-14-0)
